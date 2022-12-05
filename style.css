@@ -37,7 +37,8 @@ main {
 .content {
     margin-top: 3rem ;
     margin-bottom: 3rem;
-    margin-left: 6em;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .lists {
