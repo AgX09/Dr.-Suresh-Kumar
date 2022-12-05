@@ -31,6 +31,7 @@ header {
 main {
     background-color: rgba(187, 187, 187, 0.2);
     margin-top: 2rem;
+    width= 100%;
 }
 
 .content {
